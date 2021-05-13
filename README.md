@@ -1,1 +1,2 @@
-# Fitbox
+# fitbox-ios
+IOS for Fitbox
